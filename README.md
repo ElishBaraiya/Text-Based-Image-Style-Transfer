@@ -3,6 +3,9 @@
 Official implementation of our **CVIP 2025** paper:  
 **"DIB-TIST: Dynamic Image Blending for Enhancement of Text-based Image Style Transfer"**
 
+## 📑 Paper
+📄 [Read the paper (PDF)](paper/DBIST_CVIP_2025.pdf)
+
 ---
 
 ## 📄 Abstract
@@ -42,4 +45,3 @@ Existing **MMIST** outputs often suffer from blurred edges and weak foreground-b
 <p align="center">
   <img src="examples/tunning_image_2.png" width="85%">
 </p>
-
