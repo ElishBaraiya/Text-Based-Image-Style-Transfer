@@ -4,7 +4,7 @@ Official implementation of our **CVIP 2025** paper:
 **"DIB-TIST: Dynamic Image Blending for Enhancement of Text-based Image Style Transfer"**
 
 ## 📑 Paper
-📄 [Read the paper (PDF)](paper/DBIST_CVIP_2025.pdf)
+[Read the paper (PDF)](paper/DBIST_CVIP_2025.pdf)
 
 ---
 
